@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"pl.polsl.aleksander.mekail.model","l":"Calculator"},{"p":"pl.polsl.aleksander.mekail","l":"Main"},{"p":"pl.polsl.aleksander.mekail.exceptions","l":"NegativeNumberException"},{"p":"pl.polsl.aleksander.mekail.view","l":"View"}]
